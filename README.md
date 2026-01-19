@@ -1,4 +1,4 @@
-**BlockMachine** is under active development.
+**blockmachine** is under active development.
 
 We’re building a Bittensor subnet focused on **production-grade infrastructure** — designed like a real business, with incentives aligned to **measurable work** and **real demand**.
 
