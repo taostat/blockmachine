@@ -19,3 +19,4 @@ https://github.com/taostat/blockmachine-validator
 ## Endpoints
 - Ethereum RPC: https://rpc-eth.blockmachine.io
 - Bittensor RPC: https://rpc.blockmachine.io
+- BNB Smart Chain (BSC) RPC: https://rpc-bnb.blockmachine.io
